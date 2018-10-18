@@ -1,1 +1,1 @@
-#argument#{test:"hello"}#argument#
+#argument#{"test":"hello"}#argument#
