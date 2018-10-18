@@ -1,1 +1,1 @@
-{aa:only a test page}
+<argument>{aa:only a test page}</argument>
