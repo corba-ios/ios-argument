@@ -1,1 +1,3 @@
-#argument#{aa:only a test page}#argument#
+#argument#
+{aa:only a test page}
+#argument#
